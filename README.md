@@ -7,6 +7,8 @@ No usar directament een ANgular CLI a menos que esten creadas las variables de e
 2. Llenar las variables de entorno acorde
 3. Crear angular Envs, esto es opcional
 
+Nota, si se clona de un repositorio usar npm start para ejecutar el comando creado.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server

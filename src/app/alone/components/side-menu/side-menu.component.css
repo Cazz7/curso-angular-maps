@@ -1,0 +1,14 @@
+li{
+  cursor: pointer;
+  transition: 0.3s all;
+}
+
+ul{
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 999;/* Para que este encima de cualquier */
+  width: 180px;
+
+}
